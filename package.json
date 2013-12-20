@@ -1,5 +1,5 @@
 {
-  "name": "note-tweetawatt",
+  "name": "node-tweetawatt",
   "version": "0.0.1",
   "description": "Parse xbee packet from a tweetawatt sensor using node.js",
   "author": {

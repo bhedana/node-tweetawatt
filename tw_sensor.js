@@ -12,7 +12,7 @@ exports.TweetawattSensor = function(xbee_data_packet) {
   VREFCALIBRATION[1] = 492 // Calibration for sensor #1
   VREFCALIBRATION[2] = 475 // Calibration for sensor #2
   VREFCALIBRATION[3] = 481 // Calibration for sensor #3
-  VREFCALIBRATION[4] = 477 // Calibration for sensor #4
+  VREFCALIBRATION[4] = 500 // Calibration for sensor #4
   // etc... approx ((2.4v * (10Ko/14.7Ko)) / 3
   
   var CURRENTNORM = 15.5  // conversion to amperes from ADC
