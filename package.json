@@ -1,0 +1,24 @@
+{
+  "name": "note-tweetawatt",
+  "version": "0.0.1",
+  "description": "Parse xbee packet from a tweetawatt sensor using node.js",
+  "author": {
+    "name": "Russell Sherman",
+    "email": "russell.t.sherman@gmail.com"
+  },
+  "main": "./tw_sensor",
+  "keywords": [
+    "xbee",
+    "serialport",
+    "sensors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bhedana/node-tweetawatt.git"
+  },
+  "readmeFilename": "README.markdown",
+  "bugs": {
+    "url": "https://github.com/bhedana/node-tweetawatt/issues"
+  },
+  "_id": "tweetawatt@0.0.1"
+}
